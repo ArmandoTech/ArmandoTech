@@ -87,7 +87,7 @@
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="armando's Activity Graph" src="[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArmandoTech&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
+  <img alt="armando's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ArmandoTech&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
   <br/>
   </samp>
   </details>

@@ -45,8 +45,6 @@
 </details>
 
 <details>
-  
-<details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>

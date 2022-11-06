@@ -12,7 +12,7 @@
 ---
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
